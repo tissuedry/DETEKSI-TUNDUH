@@ -1,8 +1,8 @@
 streamlit
-opencv-python-headless
-ultralytics
-pillow
 numpy
-streamlit-webrtc
+pillow
 av
+streamlit-webrtc
 gdown
+ultralytics
+opencv-python-headless==4.10.0.84
